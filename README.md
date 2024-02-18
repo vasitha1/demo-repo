@@ -1,2 +1,2 @@
 # demo-repo
-Trying out github tutrial
+Trying out github tutrial!
